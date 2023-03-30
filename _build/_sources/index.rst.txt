@@ -12,3 +12,4 @@ Welcome to The rad CodeRefinery Binder Example Documentation Example's documenta
 
    feature-a.md
    feature-b.md
+   pi-darts.ipynb
